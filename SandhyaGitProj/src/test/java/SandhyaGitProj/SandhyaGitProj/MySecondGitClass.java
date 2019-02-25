@@ -6,6 +6,7 @@ public class MySecondGitClass {
 		// TODO Auto-generated method stub
 System.out.println("Mys second git class");
 System.out.println("second commit");
+System.out.println("third commit");
 	}
 
 }
