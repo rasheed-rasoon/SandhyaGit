@@ -7,6 +7,7 @@ public class GitPractice {
 System.out.println("my first commit");
 
 System.out.println("my second commit");
+System.out.println("my third commit");
 	}
 
 }
