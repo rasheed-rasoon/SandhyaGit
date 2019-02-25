@@ -12,7 +12,8 @@ System.out.println("my fourth commit");
 System.out.println("my fifth commit");
 System.out.println("my sixth commit");
 System.out.println("my seventh commit");
-System.out.println("my seventh commit");
+System.out.println("my 9th commit");
+System.out.println("my tenth commit");
 	}
 
 }
