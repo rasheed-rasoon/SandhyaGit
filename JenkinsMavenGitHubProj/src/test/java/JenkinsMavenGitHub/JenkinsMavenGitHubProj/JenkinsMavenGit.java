@@ -1,5 +1,6 @@
 package JenkinsMavenGitHub.JenkinsMavenGitHubProj;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
@@ -47,6 +48,7 @@ public void jenkinsInteg()
 	driver =new FirefoxDriver();
 	System.out.println("navigating to BRS URL");
 	driver.get("http://inctest.apcgg.gov.in");
+	driver.findElement(By.id("LinkButton1")).click();
 }
 
 }
