@@ -45,6 +45,7 @@ public void jenkinsInteg()
 	
 	System.setProperty("webdriver.gecko.driver","D:\\stdy\\softwares\\drivers\\geckodriver.exe");
 	driver =new FirefoxDriver();
+	System.out.println("navigating to BRS URL");
 	driver.get("http://inctest.apcgg.gov.in");
 }
 
