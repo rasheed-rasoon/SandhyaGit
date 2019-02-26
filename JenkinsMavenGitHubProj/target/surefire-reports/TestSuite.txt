@@ -1,4 +1,12 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.292 s - in TestSuite
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 13.175 s <<< FAILURE! - in TestSuite
+jenkinsInteg(JenkinsMavenGitHub.JenkinsMavenGitHubProj.JenkinsMavenGit)  Time elapsed: 12.641 s  <<< FAILURE!
+org.openqa.selenium.NoSuchSessionException: 
+Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'RASHEED-PC', ip: '192.168.2.8', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: driver.version: RemoteWebDriver
+	at JenkinsMavenGitHub.JenkinsMavenGitHubProj.JenkinsMavenGit.jenkinsInteg(JenkinsMavenGit.java:59)
+
