@@ -47,15 +47,16 @@ public void jenkinsInteg()
 	System.setProperty("webdriver.gecko.driver","D:\\stdy\\softwares\\drivers\\geckodriver.exe");
 	driver =new FirefoxDriver();
 	System.out.println("navigating to BRS URL");
-	driver.get("http://inctest.apcgg.gov.in");
-//	System.out.println("waiting for 2 seconds");
-//	try {
-//		Thread.sleep(2000);
-//	} catch (InterruptedException e) {
-//		// TODO Auto-generated catch block
-//		e.printStackTrace();
-//	}
-//	driver.findElement(By.id("LinkButton1")).click();
-//}
+	driver.get("https://www.google.com");
+	driver.quit();
+	System.out.println("waiting for 2 seconds");
+	try {
+		Thread.sleep(2000);
+	} catch (InterruptedException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
+	driver.findElement(By.id("LinkButton1")).click();
 }
 }
+

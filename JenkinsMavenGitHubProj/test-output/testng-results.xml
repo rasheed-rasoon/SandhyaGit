@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9430" started-at="2019-02-26T09:21:05Z" finished-at="2019-02-26T09:21:14Z">
+  <suite name="Suite" duration-ms="11273" started-at="2019-02-26T15:55:33Z" finished-at="2019-02-26T15:55:44Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9430" started-at="2019-02-26T09:21:05Z" finished-at="2019-02-26T09:21:14Z">
+    <test name="Test" duration-ms="11273" started-at="2019-02-26T15:55:33Z" finished-at="2019-02-26T15:55:44Z">
       <class name="JenkinsMavenGitHub.JenkinsMavenGitHubProj.JenkinsMavenGit">
-        <test-method status="PASS" signature="jenkinsInteg()[pri:0, instance:JenkinsMavenGitHub.JenkinsMavenGitHubProj.JenkinsMavenGit@56f4468b]" name="jenkinsInteg" duration-ms="9415" started-at="2019-02-26T14:51:05Z" finished-at="2019-02-26T14:51:14Z">
+        <test-method status="PASS" signature="jenkinsInteg()[pri:0, instance:JenkinsMavenGitHub.JenkinsMavenGitHubProj.JenkinsMavenGit@56f4468b]" name="jenkinsInteg" duration-ms="11244" started-at="2019-02-26T21:25:33Z" finished-at="2019-02-26T21:25:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- jenkinsInteg -->
       </class> <!-- JenkinsMavenGitHub.JenkinsMavenGitHubProj.JenkinsMavenGit -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
