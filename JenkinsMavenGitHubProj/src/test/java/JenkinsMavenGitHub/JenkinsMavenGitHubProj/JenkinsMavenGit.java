@@ -56,6 +56,7 @@ public void jenkinsInteg()
 		// TODO Auto-generated catch block
 		e.printStackTrace();
 	}
+	System.out.println("Going to close the window");
 	//driver.findElement(By.id("LinkButton1")).click();
 	driver.quit();
 }

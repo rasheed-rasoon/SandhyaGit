@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="11338" started-at="2019-02-26T16:17:59Z" finished-at="2019-02-26T16:18:10Z">
+  <suite name="Suite" duration-ms="14711" started-at="2019-02-27T06:22:08Z" finished-at="2019-02-27T06:22:23Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="11338" started-at="2019-02-26T16:17:59Z" finished-at="2019-02-26T16:18:10Z">
+    <test name="Test" duration-ms="14711" started-at="2019-02-27T06:22:08Z" finished-at="2019-02-27T06:22:23Z">
       <class name="JenkinsMavenGitHub.JenkinsMavenGitHubProj.JenkinsMavenGit">
-        <test-method status="PASS" signature="jenkinsInteg()[pri:0, instance:JenkinsMavenGitHub.JenkinsMavenGitHubProj.JenkinsMavenGit@79698539]" name="jenkinsInteg" duration-ms="11323" started-at="2019-02-26T21:47:59Z" finished-at="2019-02-26T21:48:10Z">
+        <test-method status="PASS" signature="jenkinsInteg()[pri:0, instance:JenkinsMavenGitHub.JenkinsMavenGitHubProj.JenkinsMavenGit@79698539]" name="jenkinsInteg" duration-ms="14699" started-at="2019-02-27T11:52:08Z" finished-at="2019-02-27T11:52:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- jenkinsInteg -->
