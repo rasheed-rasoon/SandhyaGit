@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="11273" started-at="2019-02-26T15:55:33Z" finished-at="2019-02-26T15:55:44Z">
+  <suite name="Default suite" duration-ms="33" started-at="2019-03-02T05:34:07Z" finished-at="2019-03-02T05:34:07Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="11273" started-at="2019-02-26T15:55:33Z" finished-at="2019-02-26T15:55:44Z">
-      <class name="JenkinsMavenGitHub.JenkinsMavenGitHubProj.JenkinsMavenGit">
-        <test-method status="PASS" signature="jenkinsInteg()[pri:0, instance:JenkinsMavenGitHub.JenkinsMavenGitHubProj.JenkinsMavenGit@56f4468b]" name="jenkinsInteg" duration-ms="11244" started-at="2019-02-26T21:25:33Z" finished-at="2019-02-26T21:25:44Z">
+    <test name="Default test" duration-ms="33" started-at="2019-03-02T05:34:07Z" finished-at="2019-03-02T05:34:07Z">
+      <class name="rough.CollectionPrograms">
+        <test-method status="PASS" signature="arryList()[pri:0, instance:rough.CollectionPrograms@50c87b21]" name="arryList" duration-ms="13" started-at="2019-03-02T11:04:07Z" finished-at="2019-03-02T11:04:07Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- jenkinsInteg -->
-      </class> <!-- JenkinsMavenGitHub.JenkinsMavenGitHubProj.JenkinsMavenGit -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- arryList -->
+      </class> <!-- rough.CollectionPrograms -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
