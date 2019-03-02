@@ -27,7 +27,7 @@ Iterator<String> itr=aList.iterator();
 System.out.println("traversing  using iterator ");
 while(itr.hasNext())
 {
-System.out.println("traversing using iterator"+itr.next());	
+System.out.println(itr.next());	
 }
 	
 	
